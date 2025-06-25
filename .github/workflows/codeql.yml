@@ -19,6 +19,9 @@ on:
   # schedule:
   #   - cron: '38 20 * * 3'
 
+env:
+  GOPRIVATE: github.com/ChanatpakornS/Golang-private-mods-demo
+
 jobs:
   analyze:
     name: Analyze (${{ matrix.language }})
