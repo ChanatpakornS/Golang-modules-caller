@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/ChanatpakornS/Golang-private-modules-demo/domain/hello"
-	"github.com/ChanatpakornS/Golang-private-modules-demo/ports"
+	"github.com/ChanatpakornS/Golang-private-mods-demo/domain/hello"
+	"github.com/ChanatpakornS/Golang-private-mods-demo/ports"
 )
 
 func main() {
